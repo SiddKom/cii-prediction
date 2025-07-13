@@ -1,0 +1,93 @@
+Day,Predicted_CII,Relative_Rating,Optimization_Suggestions
+2024-03-05,19.96409745135438,C,Performance is within expected range
+2024-03-06,24.173728378280426,E,Avoid sailing during high wind
+2024-03-07,18.912912183735184,A,Maintain optimal cruising speed
+2024-03-08,20.53478986898492,C,Performance is within expected range
+2024-03-09,19.555121689894023,B,Performance is within expected range
+2024-03-10,19.686032755335862,B,Maintain optimal cruising speed
+2024-03-11,19.239158779987477,B,Maintain optimal cruising speed
+2024-03-12,21.88670980974723,D,Maintain optimal cruising speed
+2024-03-13,27.103298775920592,E,Avoid sailing during high wind
+2024-03-14,18.95828734058441,A,Maintain optimal cruising speed
+2024-03-15,19.744039771265705,B,Performance is within expected range
+2024-03-16,19.29544774363827,B,Performance is within expected range
+2024-03-17,19.81860059740404,B,Avoid sailing during high wind; Maintain optimal cruising speed
+2024-03-18,20.57260351241426,C,Avoid sailing during high wind; Maintain optimal cruising speed
+2024-03-19,22.03608595739568,D,Performance is within expected range
+2024-03-20,24.26704316081035,E,Avoid sailing during high wind
+2024-03-21,19.17929133738938,A,Maintain optimal cruising speed
+2024-03-22,21.03161050532643,D,Performance is within expected range
+2024-03-23,18.49438438894742,A,Performance is within expected range
+2024-03-24,18.461155074527202,A,Maintain optimal cruising speed
+2024-03-25,19.13908028728389,A,Maintain optimal cruising speed
+2024-03-26,22.116516465061295,D,Avoid sailing during high wind; Maintain optimal cruising speed
+2024-03-27,29.680846964415863,E,Reduce trim to improve fuel efficiency; Balance ballast to reduce heel; Avoid sailing during high wind
+2024-03-28,20.953383612934715,D,Performance is within expected range
+2024-03-30,19.095332978294486,A,Reduce trim to improve fuel efficiency; Maintain optimal cruising speed
+2024-03-31,22.16800827291531,D,Performance is within expected range
+2024-04-01,18.8902483408721,A,Performance is within expected range
+2024-04-02,18.86903120434554,A,Maintain optimal cruising speed
+2024-04-03,19.457720266889595,B,Performance is within expected range
+2024-04-04,21.50701512266428,D,Maintain optimal cruising speed
+2024-04-05,23.628389459056862,E,Performance is within expected range
+2024-04-06,22.536288204473696,E,Performance is within expected range
+2024-04-07,23.691215468973276,E,Performance is within expected range
+2024-04-08,22.25722080778042,E,Performance is within expected range
+2024-04-09,22.941084874108732,E,Avoid sailing during high wind
+2024-04-10,22.7862806734848,E,Avoid sailing during high wind
+2024-04-11,21.585863670125068,D,Performance is within expected range
+2024-04-12,18.36988124245064,A,Reduce trim to improve fuel efficiency; Maintain optimal cruising speed
+2024-04-13,20.257004634465332,C,Performance is within expected range
+2024-04-14,20.007735803992084,C,Performance is within expected range
+2024-04-15,20.710427749811597,C,Performance is within expected range
+2024-04-16,22.900387985150648,E,Performance is within expected range
+2024-04-17,21.903392913201536,D,Performance is within expected range
+2024-04-18,22.613576198931177,E,Performance is within expected range
+2024-04-19,19.974325543860108,C,Maintain optimal cruising speed
+2024-04-20,20.899687961779673,D,Reduce trim to improve fuel efficiency; Maintain optimal cruising speed
+2024-04-21,19.87287022397065,C,Performance is within expected range
+2024-04-22,19.981920081077785,C,Maintain optimal cruising speed
+2024-04-23,24.88924989886856,E,Performance is within expected range
+2024-04-24,20.74391048575855,C,Balance ballast to reduce heel
+2024-04-25,18.891377456509694,A,Reduce trim to improve fuel efficiency; Maintain optimal cruising speed
+2024-04-26,21.68316240866508,D,Performance is within expected range
+2024-04-27,18.33017396577137,A,Performance is within expected range
+2024-04-28,19.293969760271867,B,Maintain optimal cruising speed
+2024-04-29,19.702020613139446,B,Maintain optimal cruising speed
+2024-04-30,20.749062259752534,D,Maintain optimal cruising speed
+2024-05-01,19.454533718533725,B,Performance is within expected range
+2024-05-02,19.05573492515183,A,Performance is within expected range
+2024-05-03,20.699896317580944,C,Maintain optimal cruising speed
+2024-05-04,17.6853182543108,A,Performance is within expected range
+2024-05-05,19.84359952516745,C,Maintain optimal cruising speed
+2024-05-06,19.564495865769388,B,Maintain optimal cruising speed
+2024-05-07,20.868932905051707,D,Maintain optimal cruising speed
+2024-05-08,20.287497511523636,C,Performance is within expected range
+2024-05-09,19.575257721618886,B,Performance is within expected range
+2024-05-10,20.058561792227753,C,Maintain optimal cruising speed
+2024-05-11,18.483494400993894,A,Performance is within expected range
+2024-05-12,19.15904192925727,A,Maintain optimal cruising speed
+2024-05-13,20.49332478211356,C,Maintain optimal cruising speed
+2024-05-14,22.569122671188925,E,Maintain optimal cruising speed
+2024-05-15,22.192995726590055,E,Performance is within expected range
+2024-05-16,19.804313894380037,B,Maintain optimal cruising speed
+2024-05-17,22.55453481143693,E,Reduce trim to improve fuel efficiency; Maintain optimal cruising speed
+2024-05-18,21.78509025956298,D,Performance is within expected range
+2024-05-19,19.065922097536724,A,Reduce trim to improve fuel efficiency; Maintain optimal cruising speed
+2024-05-20,19.594673015590192,B,Reduce trim to improve fuel efficiency; Maintain optimal cruising speed
+2024-05-21,21.258369401510244,D,Maintain optimal cruising speed
+2024-05-22,22.01966121728362,D,Performance is within expected range
+2024-05-23,19.9880258297486,C,Performance is within expected range
+2024-05-24,19.98204843207445,C,Maintain optimal cruising speed
+2024-05-25,18.01574916204342,A,Performance is within expected range
+2024-05-26,19.28619260974032,B,Maintain optimal cruising speed
+2024-05-27,19.323137505040116,B,Maintain optimal cruising speed
+2024-05-28,22.817725198697723,E,Avoid sailing during high wind; Maintain optimal cruising speed
+2024-05-29,21.57737822090063,D,Performance is within expected range
+2024-05-30,20.342035815488195,C,Performance is within expected range
+2024-05-31,21.014568447734874,D,Performance is within expected range
+2024-06-01,18.364234668990104,A,Performance is within expected range
+2024-06-02,19.31810514844559,B,Maintain optimal cruising speed
+2024-06-03,19.50510930006812,B,Maintain optimal cruising speed
+2024-06-04,22.436938869380608,E,Maintain optimal cruising speed
+2024-06-05,24.54116439633388,E,Performance is within expected range

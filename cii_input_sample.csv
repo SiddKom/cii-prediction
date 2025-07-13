@@ -1,0 +1,4 @@
+﻿CO2_Emission_g,Distance_NM,Avg_Speed,Avg_Wind_Speed,Avg_CppPitch,Avg_Heel,Avg_Trim,Avg_Draft
+95000000,320,17.5,8.3,21.7,0.95,0.8,6.5
+78000000,300,17.2,9.1,21.5,0.22,0.75,6.4
+91000000,350,18,7.8,22.1,0.3,0.85,6.6
