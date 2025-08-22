@@ -516,6 +516,10 @@ elif st.session_state.data_loaded:
             st.session_state, predicted_cii, suggestion, st.session_state.range_selector
         )
         st.markdown('<div class="cii-btn"></div>', unsafe_allow_html=True)
-        if st.button("⬇️ Download CII Report (CSV)"):
-            tmp_download_link = download_link(cii_report_df, "cii_report_summary.csv", "Click here to download your CII Report")
-            st.markdown(tmp_download_link, unsafe_allow_html=True)
+        st.download_button(
+    label="⬇️ Download CII Report (CSV)",
+    data=cii_report_df.to_csv(index=False),
+    file_name="cii_report_summary.csv",
+    mime="text/csv"
+)
+
